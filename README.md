@@ -53,7 +53,7 @@ java -jar build/libs/filename.jar
 ```
 Replace `filename.jar` with the name of your generated JAR file.
 
-## Homework
+## ongoing
 
 ### Objective
 Build a JAR file and verify if the HTTP request code works when run from the CLI instead of an IDE like IntelliJ IDEA.
